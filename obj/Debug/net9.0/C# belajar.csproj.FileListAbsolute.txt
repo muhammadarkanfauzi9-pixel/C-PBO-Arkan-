@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\C# belajar\bin\Debug\net9.0\C# belajar.exe
+C:\Users\USER\OneDrive\Desktop\C# belajar\bin\Debug\net9.0\C# belajar.deps.json
+C:\Users\USER\OneDrive\Desktop\C# belajar\bin\Debug\net9.0\C# belajar.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\C# belajar\bin\Debug\net9.0\C# belajar.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\bin\Debug\net9.0\C# belajar.pdb
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\refint\C# belajar.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.pdb
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\C# belajar.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\obj\Debug\net9.0\ref\C# belajar.dll

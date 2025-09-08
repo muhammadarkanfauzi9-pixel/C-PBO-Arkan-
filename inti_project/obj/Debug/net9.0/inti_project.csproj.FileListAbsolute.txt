@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\bin\Debug\net9.0\inti_project.exe
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\bin\Debug\net9.0\inti_project.deps.json
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\bin\Debug\net9.0\inti_project.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\bin\Debug\net9.0\inti_project.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\bin\Debug\net9.0\inti_project.pdb
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\refint\inti_project.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.pdb
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\inti_project.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\obj\Debug\net9.0\ref\inti_project.dll

@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\bin\Debug\net9.0-windows\CobaWinForms.exe
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\bin\Debug\net9.0-windows\CobaWinForms.deps.json
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\bin\Debug\net9.0-windows\CobaWinForms.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\bin\Debug\net9.0-windows\CobaWinForms.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\bin\Debug\net9.0-windows\CobaWinForms.pdb
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\refint\CobaWinForms.dll
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.pdb
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\CobaWinForms.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\C# belajar\inti_project\CobaWinForms\obj\Debug\net9.0-windows\ref\CobaWinForms.dll

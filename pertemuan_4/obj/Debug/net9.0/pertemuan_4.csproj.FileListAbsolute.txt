@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\bin\Debug\net9.0\pertemuan_4.exe
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\bin\Debug\net9.0\pertemuan_4.deps.json
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\bin\Debug\net9.0\pertemuan_4.runtimeconfig.json
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\bin\Debug\net9.0\pertemuan_4.dll
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\bin\Debug\net9.0\pertemuan_4.pdb
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.AssemblyInfo.cs
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.dll
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\refint\pertemuan_4.dll
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.pdb
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\pertemuan_4.genruntimeconfig.cache
+C:\Users\USER\Documents\coding\Coding C#\C# belajar\pertemuan_4\obj\Debug\net9.0\ref\pertemuan_4.dll
